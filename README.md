@@ -1,4 +1,4 @@
-#piCal
+# Pi Estimator
 
 Estimate Pi by throwing darts.
 
